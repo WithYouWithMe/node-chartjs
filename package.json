@@ -1,6 +1,6 @@
 {
   "name": "node-chartjs",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Chart.js on the server in Node.js",
   "engines": {
     "node": ">=8.0.0"
@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.1.0",
-    "jsdom": "^11.6.2"
+    "jsdom": "^13.0.0"
   },
   "devDependencies": {
     "chart.js": "^2.4.0",
